@@ -1,6 +1,7 @@
 *.memmap
 
 # Byte-compiled / optimized / DLL files
+**backup**
 __pycache__/
 *.py[cod]
 *$py.class
